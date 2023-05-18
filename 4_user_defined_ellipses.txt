@@ -1,0 +1,7 @@
+dfnGen /dfnWorks/examples/hill-slope/gen_4_user_ellipses.dat
+dfnFlow /None/None
+dfnFlow /None/None
+
+
+#dfnFlow /dfnWorks/examples/full_regional/dfn_explicit.in
+#dfnTrans /dfnWorks/examples/full_regional/PTDFN_control.dat
